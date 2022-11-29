@@ -1,0 +1,25 @@
+{
+  "name": "js-automation",
+  "version": "1.0.0",
+  "description": "js-automation-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bzzhA/js-automation.git"
+  },
+  "keywords": [
+    "bzzha"
+  ],
+  "author": "Artem Sidorovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bzzhA/js-automation/issues"
+  },
+  "homepage": "https://github.com/bzzhA/js-automation#readme",
+  "devDependencies": {
+    "fs-extra": "^11.0.0"
+  }
+}
